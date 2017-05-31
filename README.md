@@ -1,2 +1,5 @@
 # hello-world
-Just a new repository
+
+Hello my naive human beings:
+
+I am an alien frog, gua gua!
