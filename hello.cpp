@@ -9,5 +9,6 @@ int main(void)
     int n = 10;
     cout << "m times n gives the result " << m*n << endl;
     cout << "This is the end!" << endl;
+    cout << "Maybe I should stay here for a while" << endl;
     return 1;
 }
