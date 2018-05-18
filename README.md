@@ -7,3 +7,5 @@ I am an alien frog, gua gua!
 Ha Ha !
 
 I will see you later.
+
+Okay, this is a new start!
