@@ -14,6 +14,7 @@ int main(void)
     float a;
     cout << "Please input a nonnegative number: ";
     cin >> a;
-    cout << "The value is " << a << ", and its logarithm is " << log(a) << endl;
+    cout << "The logarithm of " << a << " is " << log(a) << endl;
+    cout << "Exponential of  " << a << " equals " << exp(a) << endl;
     return 1;
 }
