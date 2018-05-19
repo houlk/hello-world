@@ -16,5 +16,6 @@ int main(void)
     cin >> a;
     cout << "The logarithm of " << a << " is " << log(a) << endl;
     cout << "Exponential of  " << a << " equals " << exp(a) << endl;
+    cout << "Cosine of " << a << " equals " << cos(a) << endl;
     return 1;
 }
