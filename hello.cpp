@@ -1,4 +1,5 @@
 #include<iostream>
+#include<cmath>
 using namespace std;
 
 int main(void)
@@ -10,5 +11,9 @@ int main(void)
     cout << "m times n gives the result " << m*n << endl;
     cout << "This is the end!" << endl;
     cout << "Maybe I should stay here for a while" << endl;
+    float a;
+    cout << "Please input a nonnegative number: ";
+    cin >> a;
+    cout << "The value is " << a << ", and its logarithm is " << log(a) << endl;
     return 1;
 }
